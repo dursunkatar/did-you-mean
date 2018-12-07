@@ -26,7 +26,7 @@ Console.WriteLine(corrector.IsThis("kbr"));
 ### javascript Örnek
 
 ```js
-let words = ["google", "kedi", "kobra"];
+let words = ["google", "kitap", "kobra"];
 
 let corrector = new DidYouMeanThis(words);
 
