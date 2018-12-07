@@ -1,5 +1,7 @@
 # csharp-js-did-you-mean-this
 
+Bunumu demek istediniz ?
+
 Yazılan yanlış kelimeyi,kelime dizisindeki diğer kelimelerle karşılaştırarak yanlış kelimeye en çok benzeyeneni bulup doğru kelimeyi tespit eder
 
 ### C sharp Örnek
@@ -13,10 +15,8 @@ var corrector = new DidYouMeanThis
 
 Console.WriteLine(corrector.IsThis("gogıl"));
 // google
-
 Console.WriteLine(corrector.IsThis("kdi"));
 // kedi
-
 Console.WriteLine(corrector.IsThis("kbr"));
 // kobra
 ```
