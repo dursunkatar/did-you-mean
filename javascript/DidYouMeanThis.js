@@ -1,12 +1,12 @@
-const firstCondition = Symbol('firstCondition'),
-    similarityRatio = Symbol('similarityRatio');
+const firstCondition  = Symbol('firstCondition');
+const similarityRatio = Symbol('similarityRatio');
 
 class DidYouMeanThis {
     constructor(words) {
         this.words = words;
     }
     isThis(word) {
-        let rate = 0,
+        let  rate  = 0,
             _word = null;
         for (let w of this.words) {
             let _rate = this[similarityRatio](w, word);
@@ -41,8 +41,8 @@ class DidYouMeanThis {
         if (!this[firstCondition](correctWord, wrongWord))
             return 0;
 
-        let i = 0,
-            sum = 0,
+        let i     = 0,
+            sum   = 0,
             count = 0,
             _correctWord = correctWord,
             _wrongWord = wrongWord;
@@ -73,4 +73,3 @@ class DidYouMeanThis {
         return 100 * sum / _correctWord.length;
     }
 }
-
