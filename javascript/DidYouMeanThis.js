@@ -1,3 +1,11 @@
+/**
+ * class DidYouMeanThis
+ * @author Dursun Katar
+ * @mail   dursun.katar@gmail.com
+ * @date   07.04.2018
+ * @update 09.12.2018
+ */
+
 const firstCondition  = Symbol('firstCondition');
 const similarityRatio = Symbol('similarityRatio');
 
