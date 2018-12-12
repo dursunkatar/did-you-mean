@@ -1,4 +1,4 @@
-# csharp-js-did-you-mean-this
+did-you-mean-this
 
 ![did you mean this](https://github.com/dursunkatar/csharp-js-did-you-mean-this/blob/master/google-did-you-mean-this.jpg)
 
