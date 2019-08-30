@@ -2,9 +2,7 @@ did-you-mean-this
 
 ![did you mean this](https://github.com/dursunkatar/csharp-js-did-you-mean-this/blob/master/google-did-you-mean-this.jpg)
 
-Bunumu demek istediniz ?
-
-Yazılan yanlış kelimeyi,kelime dizisindeki diğer kelimelerle karşılaştırarak yanlış kelimeye en çok benzeyeneni bulup doğru kelimeyi tespit eder
+Google dan bildiğimiz bunumu demek istediniz algoritması
 
 ### C sharp Örnek
 ```csharp
