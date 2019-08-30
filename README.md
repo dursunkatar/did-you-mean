@@ -1,6 +1,6 @@
-did-you-mean-this
+did-you-mean
 
-![did you mean this](https://github.com/dursunkatar/csharp-js-did-you-mean-this/blob/master/google-did-you-mean-this.jpg)
+![did you mean](https://github.com/dursunkatar/csharp-js-did-you-mean-this/blob/master/google-did-you-mean-this.jpg)
 
 Google dan bildiğimiz bunumu demek istediniz algoritması
 
